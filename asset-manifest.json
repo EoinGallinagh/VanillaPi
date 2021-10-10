@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VanillaPi/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/VanillaPi/static/js/main.1988dd47.chunk.js",
+    "main.js.map": "/VanillaPi/static/js/main.1988dd47.chunk.js.map",
+    "runtime-main.js": "/VanillaPi/static/js/runtime-main.90cfdf25.js",
+    "runtime-main.js.map": "/VanillaPi/static/js/runtime-main.90cfdf25.js.map",
+    "static/js/2.4ea72514.chunk.js": "/VanillaPi/static/js/2.4ea72514.chunk.js",
+    "static/js/2.4ea72514.chunk.js.map": "/VanillaPi/static/js/2.4ea72514.chunk.js.map",
+    "static/js/3.6694e89f.chunk.js": "/VanillaPi/static/js/3.6694e89f.chunk.js",
+    "static/js/3.6694e89f.chunk.js.map": "/VanillaPi/static/js/3.6694e89f.chunk.js.map",
+    "index.html": "/VanillaPi/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/VanillaPi/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4ea72514.chunk.js.LICENSE.txt": "/VanillaPi/static/js/2.4ea72514.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90cfdf25.js",
+    "static/js/2.4ea72514.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1988dd47.chunk.js"
+  ]
+}
