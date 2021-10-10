@@ -15,6 +15,7 @@ const useStyles = makeStyles((theme) => ({
     },
     appBarTitle: {
         flexGrow: '1',
+        fontSize: '1.5rem'
     },
     appBarWrapper: {
         width: '90%',
@@ -29,7 +30,7 @@ const useStyles = makeStyles((theme) => ({
     title: {
         color: '#fff',
         fontFamily: 'Acme',
-        fontSize: '5rem'
+        fontSize: '3rem'
     },
     text: {
         color: '#000',
@@ -45,11 +46,6 @@ function Header() {
     const classes = useStyles();
     return (
         <div className={classes.root}>
-            <AppBar className={classes.appBar} elevation={0}>
-                <Toolbar className={classes.appBarWrapper}>
-                <h1 className={classes.appBarTitle}><span className={classes.colorTextTwo}>Vanilla</span><span className={classes.colorText}>Pi</span></h1>
-                </Toolbar>
-            </AppBar>
             <div className={classes.container}>
             <h1 className={classes.title}><span className={classes.colorTextTwo}>Vanilla</span><span className={classes.colorText}>Pi</span></h1>
 
