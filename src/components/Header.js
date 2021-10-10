@@ -48,7 +48,6 @@ function Header() {
         <div className={classes.root}>
             <div className={classes.container}>
             <h1 className={classes.title}><span className={classes.colorTextTwo}>Vanilla</span><span className={classes.colorText}>Pi</span></h1>
-
                 <h1 className={classes.text}>
                     Coming Soon!
                 </h1>
